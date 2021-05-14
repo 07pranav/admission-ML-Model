@@ -10,4 +10,4 @@
 
 ## Contributions
 
-- Pranav Gautam <pranavue183072cse@gmail.com>
+- Pranav Gautam 
